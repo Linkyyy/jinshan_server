@@ -1,0 +1,306 @@
+{
+  "skus": [
+    {
+      "price": 88888,
+      "cat": [
+        "分类1",
+        "分类2"
+      ],
+      "label": [
+        "标签1",
+        "标签2"
+      ],
+      "title": "标题",
+      "stock": 123,
+      "status": 1,
+      "cover": "sadasda",
+      "gallery": [
+        "//asdasda",
+        "//sadasda13"
+      ],
+      "detail": [
+        "//sadasda214141",
+        "//sadasdasd15125"
+      ],
+      "id": "cfcd6b34624e",
+      "time": 1623495100984
+    },
+    {
+      "price": 88888,
+      "cat": [
+        "分类1",
+        "分类2"
+      ],
+      "label": [
+        "标签1",
+        "标签2"
+      ],
+      "title": "标题",
+      "stock": 123,
+      "status": 1,
+      "cover": "sadasda",
+      "gallery": [
+        "//asdasda",
+        "//sadasda13"
+      ],
+      "detail": [
+        "//sadasda214141",
+        "//sadasdasd15125"
+      ],
+      "id": "36e72fa07fd2",
+      "time": 1623494659202
+    },
+    {
+      "price": 88888,
+      "cat": [
+        "分类1",
+        "分类2"
+      ],
+      "label": [
+        "标签1",
+        "标签2"
+      ],
+      "title": "标题",
+      "stock": 123,
+      "status": 1,
+      "cover": "sadasda",
+      "gallery": [
+        "//asdasda",
+        "//sadasda13"
+      ],
+      "detail": [
+        "//sadasda214141",
+        "//sadasdasd15125"
+      ],
+      "id": "c13ad3875c9e",
+      "time": 1623494653638
+    },
+    {
+      "price": 88888,
+      "cat": [
+        "分类1",
+        "分类2"
+      ],
+      "label": [
+        "标签1",
+        "标签2"
+      ],
+      "title": "标题",
+      "stock": 123,
+      "status": 1,
+      "cover": "https://img.alicdn.com/imgextra/i4/2107623246/O1CN01t6sOE41ZqiJRsh5Eq_!!2107623246.jpg_640x640q80_.webp",
+      "gallery": [
+        "https://img.alicdn.com/imgextra/i4/2107623246/O1CN01t6sOE41ZqiJRsh5Eq_!!2107623246.jpg_640x640q80_.webp",
+        "https://img.alicdn.com/imgextra/i1/2107623246/O1CN01BntvpA1ZqiJOAgmhz_!!2107623246.jpg_640x640q80_.webp",
+        "https://img.alicdn.com/imgextra/i1/2107623246/O1CN01gPNOVQ1Zqi8OwrwMz_!!2107623246.jpg_640x640q80_.webp"
+      ],
+      "detail": [
+        "//img.alicdn.com/imgextra/i3/2107623246/O1CN01Aca8Gj1ZqiJTwjPHl_!!2107623246.jpg",
+        "//img.alicdn.com/imgextra/i2/2107623246/O1CN01NrYH3z1ZqiJOiLnXz_!!2107623246.jpg"
+      ],
+      "id": "35b63607bd3a",
+      "time": 1623484813013
+    },
+    {
+      "title": "田园草编收纳筐日式储物整理箱衣服玩具收纳箱杂物筐脏衣篮零食框",
+      "status": 1,
+      "stock": 233,
+      "price": 38,
+      "cover": "//img.alicdn.com/bao/uploaded/i2/13350026409568808/T1MiQEXh4fXXXXXXXX_!!0-item_pic.jpg_200x200q90.jpg_.webp",
+      "gallery": [
+        "//img.alicdn.com/imgextra/i2/13350026409568808/T1MiQEXh4fXXXXXXXX_!!0-item_pic.jpg_640x640q80_.webp",
+        "//img.alicdn.com/imgextra/i4/814133350/TB2NLoUcFXXXXbnXpXXXXXXXXXX_!!814133350.jpg_640x640q80_.webp",
+        "//img.alicdn.com/imgextra/i4/814133350/O1CN01MDzvr71acLPvCJSJI_!!814133350.png_640x640q80_.webp"
+      ],
+      "detail": [
+        "//img.alicdn.com/imgextra/i3/814133350/O1CN019eYk9p1acLSFsnmtC_!!814133350.png",
+        "//img.alicdn.com/imgextra/i1/814133350/O1CN01qxQVC41acLMpgaSEJ_!!814133350.png",
+        "//img.alicdn.com/imgextra/i1/814133350/O1CN01BZ6Jfs1acLPPrJYgP_!!814133350.png",
+        "//img.alicdn.com/imgextra/i3/814133350/O1CN01C8zAsN1acLSFJlIcX_!!814133350.png",
+        "//img.alicdn.com/imgextra/i3/814133350/TB2srU4cFXXXXajXpXXXXXXXXXX-814133350.jpg"
+      ],
+      "id": "bd6b1991409f",
+      "time": 1622781384202
+    },
+    {
+      "title": "电烧烤炉家用无烟烤肉机电烤盘涮烤韩式多功能室内火锅一体锅烤鱼",
+      "price": 48,
+      "stock": 100,
+      "cover": "//gw.alicdn.com/bao/uploaded/i1/2107623246/O1CN018Fosfk1ZqiHpVhMGD_!!0-item_pic.jpg_320x320q90.jpg_.webp",
+      "gallery": [
+        "https://img.alicdn.com/imgextra/i4/2107623246/O1CN01t6sOE41ZqiJRsh5Eq_!!2107623246.jpg_640x640q80_.webp",
+        "https://img.alicdn.com/imgextra/i1/2107623246/O1CN01BntvpA1ZqiJOAgmhz_!!2107623246.jpg_640x640q80_.webp",
+        "https://img.alicdn.com/imgextra/i1/2107623246/O1CN01gPNOVQ1Zqi8OwrwMz_!!2107623246.jpg_640x640q80_.webp"
+      ],
+      "detail": [
+        "//img.alicdn.com/imgextra/i3/2107623246/O1CN01Aca8Gj1ZqiJTwjPHl_!!2107623246.jpg",
+        "//img.alicdn.com/imgextra/i2/2107623246/O1CN01NrYH3z1ZqiJOiLnXz_!!2107623246.jpg",
+        "//img.alicdn.com/imgextra/i1/2107623246/O1CN01FbXQUE1ZqiJTwfe1H_!!2107623246.jpg",
+        "//img.alicdn.com/imgextra/i1/2107623246/O1CN01VG1EkT1ZqiIzGmmFI_!!2107623246.jpg"
+      ],
+      "cat": [
+        "装饰",
+        "家用"
+      ],
+      "label": [
+        "618大促",
+        "满100立减99"
+      ],
+      "id": "734334efd02b",
+      "time": 1622720381518,
+      "status": 1
+    },
+    {
+      "title": "欧式水果叉不绣钢水果叉子韩国家用儿童创意可爱水果叉套装甜品叉",
+      "price": 33.9,
+      "stock": 100,
+      "cover": "//gw.alicdn.com/bao/uploaded/i3/421748019/O1CN019lO2dS296kZwR8vr6_!!0-item_pic.jpg_320x320q90.jpg_.webp",
+      "gallery": [
+        "//img.alicdn.com/imgextra/i3/421748019/O1CN019lO2dS296kZwR8vr6_!!0-item_pic.jpg_640x640q80_.webp",
+        "//img.alicdn.com/imgextra/i1/421748019/TB2vCc5yORnpuFjSZFCXXX2DXXa_!!421748019.jpg_640x640q80_.webp",
+        "//img.alicdn.com/imgextra/i2/421748019/TB2b2ephVXXXXavXpXXXXXXXXXX_!!421748019.jpg_640x640q80_.webp"
+      ],
+      "detail": [
+        "//img.alicdn.com/imgextra/i2/421748019/O1CN01Y02seB296keSWTQ7Y_!!421748019.jpg",
+        "//img.alicdn.com/imgextra/i1/421748019/O1CN018okFQL296keWIE5i2_!!421748019.jpg",
+        "//img.alicdn.com/imgextra/i3/421748019/O1CN01LDwEQZ296keSWUMIW_!!421748019.jpg",
+        "//img.alicdn.com/imgextra/i4/421748019/O1CN014y6n0A296keQ9Tqr8_!!421748019.jpg"
+      ],
+      "cat": [
+        "装饰",
+        "家用"
+      ],
+      "label": [
+        "618大促",
+        "满100立减99"
+      ],
+      "id": "94dac2ad28d8",
+      "time": 1622720155980,
+      "status": 1
+    },
+    {
+      "title": "杯具熊玻璃杯双层可爱花茶杯子办公室女水杯泡茶杯男夏季带盖防烫",
+      "price": 78,
+      "stock": 100,
+      "cover": "//gw.alicdn.com/bao/uploaded/i2/2938416728/O1CN01PbB2Ve1zZTPETAnpj_!!0-item_pic.jpg_320x320q90.jpg_.webp",
+      "gallery": [
+        "https://img.alicdn.com/imgextra/i1/2938416728/O1CN01nCgvo71zZTPUefRDX_!!2938416728.jpg_640x640q80_.webp",
+        "https://img.alicdn.com/imgextra/i1/2938416728/O1CN016SRFyk1zZTPemyWWj_!!2938416728.jpg_640x640q80_.webp",
+        "https://img.alicdn.com/imgextra/i4/2938416728/O1CN019G0O6O1zZTPfx8QpR_!!2938416728.jpg_640x640q80_.webp"
+      ],
+      "detail": [
+        "//img.alicdn.com/imgextra/i2/2938416728/O1CN017c8uTJ1zZTIk9vF8n_!!2938416728.jpg",
+        "//img.alicdn.com/imgextra/i3/2938416728/O1CN014hynNX1zZTOfidhNY_!!2938416728.jpg",
+        "//img.alicdn.com/imgextra/i1/2938416728/O1CN014alG2q1zZTOcPbzP3_!!2938416728.jpg",
+        "//img.alicdn.com/imgextra/i1/2938416728/O1CN01BVX0q51zZTG58q6af_!!2938416728.jpg"
+      ],
+      "cat": [
+        "装饰",
+        "家用"
+      ],
+      "label": [
+        "618大促",
+        "满100立减99"
+      ],
+      "id": "cb8f12ff0191",
+      "time": 1622720023762,
+      "status": 1
+    }
+  ],
+  "carts": [
+    {
+      "username": "admin",
+      "skuId": "734334efd02b"
+    },
+    {
+      "username": "test",
+      "skuId": "35b63607bd3a"
+    },
+    {
+      "username": "test",
+      "skuId": "bd6b1991409f"
+    },
+    {
+      "username": "test",
+      "skuId": "35b63607bd3a"
+    },
+    {
+      "username": "test",
+      "skuId": "35b63607bd3a"
+    },
+    {
+      "username": "test",
+      "skuId": "35b63607bd3a"
+    },
+    {
+      "username": "test",
+      "skuId": "734334efd02b"
+    },
+    {
+      "username": "test",
+      "skuId": "734334efd02b"
+    },
+    {
+      "username": "test",
+      "skuId": "734334efd02b"
+    },
+    {
+      "username": "test",
+      "skuId": "734334efd02b"
+    },
+    {
+      "username": "test",
+      "skuId": "734334efd02b"
+    },
+    {
+      "username": "test",
+      "skuId": "734334efd02b"
+    },
+    {
+      "username": "test",
+      "skuId": "734334efd02b"
+    },
+    {
+      "username": "test",
+      "skuId": "734334efd02b"
+    },
+    {
+      "username": "test",
+      "skuId": "734334efd02b"
+    },
+    {
+      "username": "test",
+      "skuId": "734334efd02b"
+    },
+    {
+      "username": "test",
+      "skuId": "734334efd02b"
+    },
+    {
+      "username": "test",
+      "skuId": "734334efd02b"
+    }
+  ],
+  "star": [
+    {
+      "username": "test",
+      "skuId": "734334efd02b"
+    }
+  ],
+  "users": [
+    {
+      "username": "test",
+      "nickname": "演示用户",
+      "password": "7c4a8d09ca3762af61e59520943dc26494f8941b",
+      "avatar": "https://assets.kscampus.io:10443/imgs/avatar_1.jpg",
+      "role": 1
+    },
+    {
+      "username": "admin",
+      "nickname": "管理员",
+      "password": "7c4a8d09ca3762af61e59520943dc26494f8941b",
+      "avatar": "https://assets.kscampus.io:10443/imgs/avatar_2.jpg",
+      "role": 2
+    }
+  ]
+}
