@@ -1,91 +1,73 @@
 {
   "skus": [
     {
-      "price": 88888,
+      "title": "【利路修同款】三谷官方正品氨基酸洗发水清爽控油香味持久洗发露 ",
+      "price": "79",
       "cat": [
-        "分类1",
-        "分类2"
+        "日用"
       ],
       "label": [
-        "标签1",
-        "标签2"
+        "618特惠",
+        "满100减20"
       ],
-      "title": "标题",
-      "stock": 123,
+      "id": "bd6bdfsdf91409f",
+      "time": 1622781384202,
       "status": 1,
-      "cover": "sadasda",
+      "stock": 233,
+      "cover": "https://i.postimg.cc/sX0796L7/1.jpg",
       "gallery": [
-        "//asdasda",
-        "//sadasda13"
+        "https://i.postimg.cc/sX0796L7/1.jpg",
+        "https://i.postimg.cc/vTg9P7Rj/2.jpg",
+        "https://i.postimg.cc/gkh88KHL/3.jpg"
       ],
       "detail": [
-        "//sadasda214141",
-        "//sadasdasd15125"
-      ],
-      "id": "cfcd6b34624e",
-      "time": 1623495100984
+        "https://i.postimg.cc/VkBtHLTY/4-1.jpg",
+        "https://i.postimg.cc/bvynXfc1/4-2.jpg",
+        "https://i.postimg.cc/mrmdzGQS/4-3.jpg",
+        "https://i.postimg.cc/FzLGBdwP/4-4.jpg",
+        "https://i.postimg.cc/sfkTZmZb/4-5.jpg"
+      ]
     },
     {
-      "price": 88888,
+      "title": "【2盒】minayo益生菌酸奶片活菌大人儿童孕妇肠道肠胃调理益生元 ",
+      "price": "209",
       "cat": [
-        "分类1",
-        "分类2"
+        "食品"
       ],
       "label": [
-        "标签1",
-        "标签2"
+        "618特惠",
+        "满100减20"
       ],
-      "title": "标题",
-      "stock": 123,
+      "id": "bd6b1991sdksk9f",
+      "time": 1622781384202,
       "status": 1,
-      "cover": "sadasda",
+      "stock": 233,
+      "cover": "https://i.postimg.cc/RF9HB33s/1.jpg",
       "gallery": [
-        "//asdasda",
-        "//sadasda13"
+        "https://i.postimg.cc/RF9HB33s/1.jpg",
+        "https://i.postimg.cc/8PqsGF9R/2.jpg",
+        "https://i.postimg.cc/yNTN0Ldj/3.jpg",
+        "https://i.postimg.cc/tTC4kFnj/4.jpg",
+        "https://i.postimg.cc/7hjPqcsH/5.jpg"
       ],
       "detail": [
-        "//sadasda214141",
-        "//sadasdasd15125"
-      ],
-      "id": "36e72fa07fd2",
-      "time": 1623494659202
+        "https://i.postimg.cc/k4pqyzdQ/6-1.jpg",
+        "https://i.postimg.cc/gcxZPPrP/6-2.jpg",
+        "https://i.postimg.cc/8PWfjBhK/6-3.jpg",
+        "https://i.postimg.cc/8Ck7K2x9/6-4.jpg",
+        "https://i.postimg.cc/3wbxLdX0/6-5.jpg"
+      ]
     },
     {
-      "price": 88888,
+      "price": 39,
       "cat": [
-        "分类1",
-        "分类2"
+        "家电"
       ],
       "label": [
-        "标签1",
-        "标签2"
+        "618特惠",
+        "满100减50"
       ],
-      "title": "标题",
-      "stock": 123,
-      "status": 1,
-      "cover": "sadasda",
-      "gallery": [
-        "//asdasda",
-        "//sadasda13"
-      ],
-      "detail": [
-        "//sadasda214141",
-        "//sadasdasd15125"
-      ],
-      "id": "c13ad3875c9e",
-      "time": 1623494653638
-    },
-    {
-      "price": 88888,
-      "cat": [
-        "分类1",
-        "分类2"
-      ],
-      "label": [
-        "标签1",
-        "标签2"
-      ],
-      "title": "标题",
+      "title": "一炉多味多功能电烤盘",
       "stock": 123,
       "status": 1,
       "cover": "https://img.alicdn.com/imgextra/i4/2107623246/O1CN01t6sOE41ZqiJRsh5Eq_!!2107623246.jpg_640x640q80_.webp",
@@ -103,6 +85,13 @@
     },
     {
       "title": "田园草编收纳筐日式储物整理箱衣服玩具收纳箱杂物筐脏衣篮零食框",
+      "label": [
+        "618特惠",
+        "满100减20"
+      ],
+      "cat": [
+        "日用"
+      ],
       "status": 1,
       "stock": 233,
       "price": 38,
@@ -139,8 +128,7 @@
         "//img.alicdn.com/imgextra/i1/2107623246/O1CN01VG1EkT1ZqiIzGmmFI_!!2107623246.jpg"
       ],
       "cat": [
-        "装饰",
-        "家用"
+        "家电"
       ],
       "label": [
         "618大促",
@@ -167,8 +155,7 @@
         "//img.alicdn.com/imgextra/i4/421748019/O1CN014y6n0A296keQ9Tqr8_!!421748019.jpg"
       ],
       "cat": [
-        "装饰",
-        "家用"
+        "日用"
       ],
       "label": [
         "618大促",
@@ -195,8 +182,7 @@
         "//img.alicdn.com/imgextra/i1/2938416728/O1CN01BVX0q51zZTG58q6af_!!2938416728.jpg"
       ],
       "cat": [
-        "装饰",
-        "家用"
+        "日用"
       ],
       "label": [
         "618大促",
@@ -214,77 +200,37 @@
     },
     {
       "username": "test",
-      "skuId": "35b63607bd3a"
+      "skuId": "bd6b19151gr1409f"
     },
     {
       "username": "test",
-      "skuId": "bd6b1991409f"
+      "skuId": "bd6b1991sdksk9f"
     },
     {
       "username": "test",
-      "skuId": "35b63607bd3a"
+      "skuId": "bd6b19rhrh409f"
     },
     {
       "username": "test",
-      "skuId": "35b63607bd3a"
+      "skuId": "cb8f12ff0191"
     },
     {
       "username": "test",
-      "skuId": "35b63607bd3a"
-    },
-    {
-      "username": "test",
-      "skuId": "734334efd02b"
-    },
-    {
-      "username": "test",
-      "skuId": "734334efd02b"
-    },
-    {
-      "username": "test",
-      "skuId": "734334efd02b"
-    },
-    {
-      "username": "test",
-      "skuId": "734334efd02b"
-    },
-    {
-      "username": "test",
-      "skuId": "734334efd02b"
-    },
-    {
-      "username": "test",
-      "skuId": "734334efd02b"
-    },
-    {
-      "username": "test",
-      "skuId": "734334efd02b"
-    },
-    {
-      "username": "test",
-      "skuId": "734334efd02b"
-    },
-    {
-      "username": "test",
-      "skuId": "734334efd02b"
-    },
-    {
-      "username": "test",
-      "skuId": "734334efd02b"
-    },
-    {
-      "username": "test",
-      "skuId": "734334efd02b"
-    },
-    {
-      "username": "test",
-      "skuId": "734334efd02b"
+      "skuId": "bd6bdfsdf91409f"
     }
   ],
   "star": [
     {
       "username": "test",
       "skuId": "734334efd02b"
+    },
+    {
+      "username": "test",
+      "skuId": "cb8f12ff0191"
+    },
+    {
+      "username": "test",
+      "skuId": "bd6bdfsdf91409f"
     }
   ],
   "users": [

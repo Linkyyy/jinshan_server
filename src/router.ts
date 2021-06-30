@@ -48,6 +48,7 @@ router.post('/user/login', ctx => {
   try {
     let { token, user } = service.login(value.username, value.password, UserRole.Common)
     ctx.set('Set-Cookie', `token=${token}; path=/; httpOnly`)
+    // ctx.set('Access-Control-Allow-Credentials',"true")
     ctx.body = {
       stat: 'OK',
       user
